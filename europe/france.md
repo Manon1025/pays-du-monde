@@ -1,5 +1,5 @@
 # France
-![alt text](image-1.png)
+! [Drapeau de la France](https://upload.wikimedia.org/wikipedia/en/c/c3/Flag_of_France.svg)
 **Capitale** : Paris
 **Continent** : Europe
 **Population** : Environ 68 millions
